@@ -24,12 +24,6 @@ Konstruktionsprozesses.
 
 ---
 
-## CAD-Entwurf
-
-![Baugruppe](docs/assembly/Final_Baugruppe.png)
-
----
-
 ## Konstruktion – Einzelkomponenten
 
 <h2>CAD-Modell</h2>
