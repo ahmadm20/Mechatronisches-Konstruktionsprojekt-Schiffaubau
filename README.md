@@ -3,30 +3,69 @@
 Dieses Projekt entstand im Rahmen eines Hochschulmoduls im Bereich
 Mechatronik und Konstruktion.
 
+---
+
 ## Projektübersicht
+
 Ziel des Projekts war die Entwicklung eines funktionsfähigen Modellschiffs
 unter Anwendung eines systematischen ingenieurwissenschaftlichen
 Konstruktionsprozesses.
 
+---
+
 ## Konstruktionsprozess
-- Anforderungsliste
-- Konzeptentwicklung (morphologischer Kasten)
-- Mechanische Konstruktion und CAD-Design
-- Prototypenfertigung mittels 3D-Druck
-- Funktions- und Wassertests
 
-## Mechanische Konstruktion & Fertigung
-Die mechanischen Bauteile wurden mit CAD-Werkzeugen konstruiert und
-anschließend mittels 3D-Druck gefertigt. Ein Gleichstrommotor mit
-Schiffsschraube und Batteriesystem wurde in den Rumpf integriert.
+- Erstellung einer Anforderungsliste  
+- Konzeptentwicklung (morphologischer Kasten)  
+- Mechanische Konstruktion mittels CAD  
+- Prototypenfertigung durch 3D-Druck  
+- Integration von Motor und Batteriesystem  
+- Durchführung von Funktions- und Wassertests  
 
-## Test & Ergebnisse
+---
+
+## CAD-Entwurf
+
+![Baugruppe](docs/assembly/Final_Baugruppe.png)
+
+---
+
+## Konstruktion – Einzelkomponenten
+
+### Oberteile
+![Oberteile](docs/assembly/Obereteile.png)
+
+### Unterteile
+![Unterteile](docs/assembly/Untereteile.png)
+
+### Propeller
+![Propeller](docs/assembly/Propeller.png)
+
+---
+
+## Realer Prototyp
+
+![Prototyp](docs/assembly/Prototyp.png)
+
+---
+
+## Funktionstest (Video)
+
+[Erfolgreicher Wassertest des Prototyps](docs/assembly/Testing_Prototyp.mp4)
+
+---
+
+## Testergebnisse
+
 Der Prototyp konnte erfolgreich schwimmen und funktionale Tests im Wasser
-durchführen, wodurch Stabilität und grundlegende Antriebsfähigkeit
-nachgewiesen wurden.
+durchführen. Dabei wurde die grundlegende Stabilität sowie die
+Antriebsfähigkeit nachgewiesen.
 
-## Dokumentation
-Detailierte Konstruktions- und Fertigungsdateien sind auf Anfrage verfügbar.
+---
 
-## Autor
+## Kontext
+
+Hochschulprojekt im Bereich Mechatronik und Konstruktion.
+
+##Autor 
 Ahmad
