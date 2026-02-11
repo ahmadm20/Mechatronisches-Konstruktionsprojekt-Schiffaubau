@@ -38,24 +38,15 @@ Konstruktionsprozesses.
 <h2>Prototyp</h2>
 <img src="docs/assembly/Prototyp.png" width="500">
 
+### Oberteile
 <h2>Elektronik</h2>
 <img src="docs/assembly/Obereteile.png" width="500">
 
-
-### Oberteile
-![Oberteile](docs/assembly/Obereteile.png)
-
 ### Unterteile
-![Unterteile](docs/assembly/Untereteile.png)
+<img src="docs/assembly/Untereteile.png" width="500">
 
 ### Propeller
-![Propeller](docs/assembly/Propeller.png)
-
----
-
-## Realer Prototyp
-
-![Prototyp](docs/assembly/Prototyp.png)
+<img src="docs/assembly/Propeller.png" width="500">
 
 ---
 
