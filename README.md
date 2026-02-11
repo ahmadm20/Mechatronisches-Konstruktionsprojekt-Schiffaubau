@@ -32,6 +32,16 @@ Konstruktionsprozesses.
 
 ## Konstruktion – Einzelkomponenten
 
+<h2>CAD-Modell</h2>
+<img src="docs/assembly/Final_Baugruppe.png" width="500">
+
+<h2>Prototyp</h2>
+<img src="docs/assembly/Prototyp.png" width="500">
+
+<h2>Elektronik</h2>
+<img src="docs/assembly/Obereteile.png" width="500">
+
+
 ### Oberteile
 ![Oberteile](docs/assembly/Obereteile.png)
 
